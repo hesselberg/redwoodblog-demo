@@ -1,5 +1,3 @@
-// web/src/pages/AboutPage/AboutPage.js
-
 import BlogLayout from 'src/layouts/BlogLayout'
 
 const AboutPage = () => {
